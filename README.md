@@ -1,0 +1,2 @@
+# R5900X-Asus-B550-A-EFI
+AMD R5900X + 华硕B550-A吹雪+AMD RX 570黑苹果OpenCore 0.8.2
